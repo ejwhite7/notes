@@ -16,7 +16,6 @@ class ViewController: UITableViewController {
         reload()
     }
     
-    
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         reload()
